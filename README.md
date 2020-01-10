@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+###The White Label Wallet provides a clean looking interface for users to manage their crypto currencies. 
 
-You can use the [editor on GitHub](https://github.com/TheDankness/WLW-Test/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+##Features breakdown
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+1. Manage multiple wallets per currency
+- Users can manage multiple wallet for each currency
+- A 24 words deterministic pass phrase will be used to generate the addresses on the wallet
+1. Add addresses to a wallet
+- By default a wallet will only have one address unless the users enables the multi address feature
+- When the multi address feature for a wallet is enabled the user will be able to add addresses to the wallet
+1. Review transactions
+- Detailed graphs showing wallet activity
+- List of all transactions
+- Multi address wallet will also display the address name in the transaction history
+1. Send and Receive funds
+- Easily send an receive crypto funds
+1. Manage Contacts
+- Store your contacts and their addresses in a single location
 
-### Markdown
+##Download
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Check it out on BitBucket](https://bitbucket.org/account/user/CodeParticle/projects/WLW)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/TheDankness/WLW-Test/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
