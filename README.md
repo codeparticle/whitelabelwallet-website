@@ -1,6 +1,6 @@
-###The White Label Wallet provides a clean looking interface for users to manage their crypto currencies. 
+### The White Label Wallet provides a clean looking interface for users to manage their crypto currencies. 
 
-##Features breakdown
+## Features breakdown
 
 1. Manage multiple wallets per currency
 - Users can manage multiple wallet for each currency
@@ -17,7 +17,7 @@
 1. Manage Contacts
 - Store your contacts and their addresses in a single location
 
-##Download
+## Download
 
 [Check it out on BitBucket](https://bitbucket.org/account/user/CodeParticle/projects/WLW)
 
