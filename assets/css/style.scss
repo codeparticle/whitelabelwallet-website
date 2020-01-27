@@ -1,8 +1,5 @@
 ---
 ---
-
-@import "";
-
 /* Variable Overrides */
 
 // Headers
@@ -15,3 +12,5 @@ $section-headings-color: #607998;
 $body-text-color: #444444;
 $body-link-color: #0E9AFF;
 $blockquote-text-color: #6F7D8E;
+
+@import "{{ site.theme }}";
