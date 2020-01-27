@@ -18,42 +18,18 @@ $blockquote-text-color: #6F7D8E;
 .btn {
 	display: inline-block;
 	margin-bottom: 1rem;
-	color: white;
-	background-color: $body-link-color;
+	color: $body-link-color;
+	background-color: white;
 	border-style: none;
 	border-width: 0px;
 	border-radius: 0.3rem;
-	transition: background-color 0.2s;
+	transition: color 0.2s, background-color 0.2s;
 
 	&:hover {
 	  text-decoration: none;
+	  color: white;
 	  background-color: $blockquote-text-color;
 	}
-
-	// + .btn {
-	//   margin-left: 1rem;
-	// }
-
-	// @include large {
-	//   padding: 0.75rem 1rem;
-	// }
-
-	// @include medium {
-	//   padding: 0.6rem 0.9rem;
-	//   font-size: 0.9rem;
-	// }
-
-	// @include small {
-	//   display: block;
-	//   width: 100%;
-	//   padding: 0.75rem;
-	//   font-size: 0.9rem;
-
-	//   + .btn {
-	// 	margin-top: 1rem;
-	// 	margin-left: 0;
-	//   }
-	// }
   }
 
   h3 {
@@ -63,5 +39,9 @@ $blockquote-text-color: #6F7D8E;
   ol {
 	li {
 		margin-bottom: 0.5rem;
+
+		ul {
+			color: $blockquote-text-color
+		}
 	}
   }
