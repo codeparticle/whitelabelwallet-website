@@ -1,3 +1,5 @@
+## White Label Wallet by Crypto Particle
+
 ### The White Label Wallet provides a clean looking interface for users to manage their crypto currencies. 
 
 ## Features breakdown
