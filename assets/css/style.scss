@@ -33,15 +33,21 @@ $blockquote-text-color: #6F7D8E;
   }
 
   h3 {
-	  color: $body-link-color;
+	  color: $body-link-color !important;
   }
 
   ol {
 	li {
-		margin-bottom: 0.5rem;
+		margin: 0 0 1rem 0;
+		font-weight: bold;
 
 		ul {
-			color: $blockquote-text-color
+			color: $blockquote-text-color;
+
+			li {
+				font-weight: normal;
+				margin: 0.5rem 0 0 0;
+			}
 		}
 	}
   }
