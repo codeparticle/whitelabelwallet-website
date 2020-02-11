@@ -41,6 +41,14 @@ blockquote {
 	color: transparent;
 	border: none;
 	padding: 0;
+
+	p {
+		margin: 0;
+
+		img {
+			margin: 0;
+		}
+	}
 }
 
 ol {
