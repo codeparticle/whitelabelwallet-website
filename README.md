@@ -22,7 +22,7 @@
 - Store your contacts and their addresses in a single location
 
 ## Darkmode
-![ex. Darkmode!](/assets/img/dark-mode2.gif)
+![ex. Darkmode!](/assets/img/dark-mode.gif)
 
 ## Download
 
