@@ -30,13 +30,20 @@ $blockquote-text-color: #6F7D8E;
 	  color: white;
 	  background-color: $blockquote-text-color;
 	}
-  }
+}
 
-  h3 {
-	  color: $body-link-color !important;
-  }
+h3 {
+	color: $body-link-color !important;
+}
 
-  ol {
+blockquote {
+	margin: 0px -50px;
+	color: transparent;
+	border: none;
+	padding: 0;
+}
+
+ol {
 	li {
 		margin: 0 0 1rem 0;
 		font-weight: bold;
@@ -50,4 +57,4 @@ $blockquote-text-color: #6F7D8E;
 			}
 		}
 	}
-  }
+}
