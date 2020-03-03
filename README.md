@@ -34,5 +34,5 @@
 
 ## Download
 
-[Check it out on BitBucket](https://bitbucket.org/account/user/CodeParticle/projects/WLW)
+[Check it out on GitHub](https://github.com/codeparticle/whitelabelwallet)
 
